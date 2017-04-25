@@ -56,5 +56,43 @@ nav {
   border-radius: 5%;
   border: 5px solid rgb(252,252,252);
 }
+.thumbnail {
+  background-color: #edf1f4;
+  padding: 10px;
+}
 
 /*--------------------------content end------------------*/
+/*----------------footer-------------------------*/
+.footer {
+  background-color: #231f20;
+  padding-top: 20px;
+}
+
+.footer a {
+  color: #bfc0c1;
+}
+
+.contact-info {
+  padding-top: 15px;
+  padding-left: 40px;
+  border-left: 1px solid #333;
+  border-right: 1px solid #333;
+}
+
+.social {
+  padding-top: 15px;
+}
+
+.fine-print {
+  color: #505050;
+  margin: 10px 0px 15px;
+
+}
+/*----------------------footer end-----------------------*/
+
+
+/*contact*/
+.content {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
